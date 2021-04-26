@@ -1,0 +1,22 @@
+/*!
+ * Start Bootstrap - Business Casual v5.0.10 (https://startbootstrap.com/themes/business-casual)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-business-casual/blob/master/LICENSE)
+ */body{font-family:Lora;
+    
+    background-attachment:fixed;background-position:center;background-size:cover}h1,h2,h3,h4,h5,h6{font-family:Raleway}p{line-height:1.75}
+    .text-faded{color:rgba(255,255,255,.3)}
+    .site-heading{margin-top:2rem;margin-bottom:2rem;text-transform:uppercase;
+        line-height:1;font-family:Raleway}.site-heading .site-heading-upper{display:block;font-size:2rem;font-weight:800}.site-heading .site-heading-lower{font-size:3rem;font-weight:100;line-height:4rem}
+        .page-section{margin-top:5rem;margin-bottom:5rem}
+        .section-heading{text-transform:uppercase}
+        .section-heading .section-heading-upper{display:block;font-size:1rem;font-weight:800}
+        .section-heading .section-heading-lower{display:block;font-size:3rem;font-weight:100}
+        .bg-faded{background-color:rgba(255,255,255,.85)}
+        #mainNav
+            {background-color:rgba(47,23,15,.9);font-family:Raleway;height: 50px;}#mainNav .navbar-brand{color:#e6a756}#mainNav .navbar-nav .nav-item .nav-link{color:rgba(255,255,255,.7);font-weight:800}#mainNav .navbar-nav .nav-item.active .nav-link{color:#e6a756}
+           
+
+            
+            
+            .footer{background-color:rgba(47,23,15,.9);height :110px;}.text-primary{color:#e6a756!important}.bg-primary{background-color:#e6a756!important}.btn{box-shadow:0 3px 3px 0 rgba(33,37,41,.1)}.btn-primary{background-color:#e6a756;border-color:#e6a756}.btn-primary:active,.btn-primary:focus,.btn-primary:hover{background-color:#df902a;border-color:#df902a}.font-weight-light{font-weight:100!important}
